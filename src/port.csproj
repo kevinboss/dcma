@@ -10,7 +10,7 @@
 
     <ItemGroup>
       <PackageReference Include="Docker.DotNet" Version="3.125.15" />
-      <PackageReference Include="DotNext.Threading" Version="5.16.1" />
+      <PackageReference Include="DotNext.Threading" Version="5.19.1" />
       <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.1" />
       <PackageReference Include="Spectre.Console" Version="0.49.1" />
       <PackageReference Include="Spectre.Console.Cli" Version="0.49.1" />
